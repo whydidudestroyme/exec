@@ -1,0 +1,23 @@
+{
+    "Binding": {
+        "AimbotKey": "XButton2"
+    },
+    "PixelSearch": {
+        "Saturation": 15,
+        "ModelPixels": "0x101010",
+        "PixelMoveAmount": 0.2
+    },
+    "SearchRadius": {
+        "SearchRadiusX": 140,
+        "SearchRadiusY": 120
+    },
+    "Smoothing": {
+        "Smoothness": 2.5,
+        "SmoothingFactor": 0.008
+    },
+    "Prediction": {
+        "Prediction": true,
+        "PredictionX": 4,
+        "PredictionY": 3
+    }
+}

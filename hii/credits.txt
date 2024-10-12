@@ -1,0 +1,6 @@
+ZyuL.io AutoHotkey "Camlock"
+------------------
+AHK Script made by Meko (@mk3o)
+Key system + Encryption + Obfuscation by Winscapes (@winscapes)
+------------------
+discord.gg/zyul

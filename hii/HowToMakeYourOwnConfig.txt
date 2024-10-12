@@ -1,0 +1,32 @@
+Suggested Values: 
+
+THE AHK IS SENSITIVITY BASED SO CONFIGS WILL NOT BE THE SAME FOR EVERYONE
+
+{
+    "Binding": {
+    "AimbotKey": "XButton2",          // your keybind
+    },
+    "PixelSearch": {
+        "Saturation": 10,             // 7-14
+        "ModelPixels": "0x090909",    // don't change if you dont know what ur doing
+        "PixelMoveAmount": 0.25       // how much it moves at a time, 0.01-2.0
+    },
+    "SearchRadius": {                 // FOV Circle
+        "SearchRadiusX": 150,         // 100-175
+        "SearchRadiusY": 155          // 100-175
+    },
+    "Smoothing": {
+        "Smoothness": 45,             // 1-150
+        "SmoothingFactor": 0.02       // 0.01-0.35
+    },
+    "Prediction": {
+    "Prediction": true,               // true = prediction , false = no prediction
+      "PredictionX": 3,               // 1-7
+       "PredictionY": 3.5             // 1-7
+    }
+}
+
+
+; FOR THE BEST PERFORMANCE USE: 
+; -native resolution (usually 1920x1080)
+; -the client settings provided in #zyul-io-ahk-camlock
